@@ -1,0 +1,14 @@
+qui non devi fare :git init
+qui non devi creare esplicitamente sotto cartelle
+...la cartella clonata è già una sottocartella
+
+per clonare una cartella remota devi:
+:git clone <url>
+
+Per scaricare gli aggiornamenti da remoto in locale:
+:git pull
+
+Per pubblicare le modifiche locali in remoto:
+:git add -A (o i file interessati)
+:git commit -m "commento"
+:git push -u origin master

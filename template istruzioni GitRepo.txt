@@ -1,0 +1,4 @@
+qui non devi fare :git init
+
+Le cartelle clonate vanno in "daremoto"
+Per ogni nuovo progetto crea la cartella dedicata e li dentro fai :git init
